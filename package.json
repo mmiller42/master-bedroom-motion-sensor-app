@@ -1,5 +1,5 @@
 {
-  "name": "typescript-netlify-functions-starter",
+  "name": "master-bedroom-motion-sensor-app",
   "version": "1.0.0",
   "description": "",
   "main": "static/index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chiubaca/typescript-netlify-functions-starter.git"
+    "url": "git+https://github.com/mmiller42/master-bedroom-motion-sensor-app.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chiubaca/typescript-netlify-functions-starter/issues"
+    "url": "https://github.com/mmiller42/master-bedroom-motion-sensor-app/issues"
   },
-  "homepage": "https://github.com/chiubaca/typescript-netlify-functions-starter#readme",
+  "homepage": "https://github.com/mmiller42/master-bedroom-motion-sensor-app#readme",
   "devDependencies": {
     "typescript": "^3.9.3",
     "@types/aws-lambda": "^8.10.59"
