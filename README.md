@@ -17,4 +17,4 @@ Read the Netlify docs for further information about [Netlify Functions](https://
 
 Just click here! 👇
 
-✨[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chiubaca/typescript-netlify-functions-starter)✨
+✨[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mmiller42/master-bedroom-motion-sensor-app)✨
